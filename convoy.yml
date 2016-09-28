@@ -1,0 +1,11 @@
+---
+project:
+  name: quantum-entanglement-service
+  github:
+    repo: pivotal-dylan-roberts/quantum-entanglement-service
+  pivotal-trackers:
+    - projectid: 1880647
+  environments:
+    - space: spring demo
+      label: Dev
+      service_url: https://quantum-entanglement-service.cfapps.io/info
