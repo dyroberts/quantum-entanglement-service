@@ -15,3 +15,5 @@ project:
     - space: spring demo
       label: Dev
       service_url: https://quantum-entanglement-service-dev.cfapps.io/info
+other-projects:
+  - repo: pivotal-dylan-roberts/quantum-entanglement-service
