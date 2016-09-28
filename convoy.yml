@@ -7,5 +7,11 @@ project:
     - projectid: 1880647
   environments:
     - space: spring demo
-      label: Dev
+      label: Prod
       service_url: https://quantum-entanglement-service.cfapps.io/info
+    - space: spring demo
+      label: QA
+      service_url: https://quantum-entanglement-service-qa.cfapps.io/info
+    - space: spring demo
+      label: Dev
+      service_url: https://quantum-entanglement-service-dev.cfapps.io/info
